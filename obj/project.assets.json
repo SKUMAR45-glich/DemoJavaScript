@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saura\\Desktop\\Training\\Practice\\RoughJavascript\\JavascriptDemo.csproj",
+      "projectUniqueName": "C:\\Users\\saura\\Desktop\\Training\\Practice\\JavascriptDemo\\JavascriptDemo.csproj",
       "projectName": "JavascriptDemo",
-      "projectPath": "C:\\Users\\saura\\Desktop\\Training\\Practice\\RoughJavascript\\JavascriptDemo.csproj",
+      "projectPath": "C:\\Users\\saura\\Desktop\\Training\\Practice\\JavascriptDemo\\JavascriptDemo.csproj",
       "packagesPath": "C:\\Users\\saura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saura\\Desktop\\Training\\Practice\\RoughJavascript\\obj\\",
+      "outputPath": "C:\\Users\\saura\\Desktop\\Training\\Practice\\JavascriptDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\saura\\AppData\\Roaming\\NuGet\\NuGet.Config",
